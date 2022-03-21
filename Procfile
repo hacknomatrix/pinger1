@@ -1,1 +1,1 @@
-web: gunicorn pinger:app --log-file
+worker: python3 -m Music
