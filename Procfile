@@ -1,0 +1,1 @@
+web: gunicorn pinger:app --log-file
